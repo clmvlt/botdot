@@ -1,3 +1,3 @@
 Salut,
 
-Ceci est le HitHub Offciel de DOT !
+Ceci est le GitHub Offciel de DOT !
